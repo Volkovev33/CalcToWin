@@ -27,6 +27,3 @@ if __name__ == '__main__':
 
 #string1
 #string2
-#int
-
-print('Hello!')
